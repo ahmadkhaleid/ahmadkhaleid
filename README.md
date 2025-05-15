@@ -2,6 +2,9 @@
 
 🎯 ** Software Testing Engineer** passionate about delivering high-quality software through rigorous testing and continuous learning.
 
+![Testing Animation](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
+
 ---
 
 ## 💼 About Me
