@@ -59,24 +59,6 @@ Tested a banking system on Guru99, created test scenarios, and reported bugs to 
 
 ---
 
-## 📜 Education
-🎓 **Postgraduate Diploma in Software Testing & Quality Assurance**  
-Information Technology Institute (ITI) |  2024 – 2025
-
-🎓 **BSc in Electrical Power & Machines Engineering**  
-Alexandria University | 2012 – 2017
-
----
-
-## 🧠 Soft Skills
-- Team Collaboration
-- Time Management
-- Flexibility & Adaptability
-- Communication & Knowledge Sharing
-- Receptiveness to Feedback
-
----
-
 ## 🔍 Fun Fact
 > “Quality means doing it right when no one is looking.” – Henry Ford
 
